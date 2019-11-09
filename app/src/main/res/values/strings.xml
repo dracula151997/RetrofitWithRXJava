@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RXJava</string>
+    <string name="lbl_price">price</string>
+</resources>
